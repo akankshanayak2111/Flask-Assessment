@@ -1,0 +1,18 @@
+/* Your CSS goes here */
+
+.yellow {
+    background-color: yellow;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.border {
+    border-style: double;
+}
+
+.btn{
+    color: black;
+}
+
